@@ -19,3 +19,6 @@ const joacochen98 = {
   code: [Javascript, HTML, CSS, Python, Java, C++],
 
 }
+
+You can find me 🗺️:
+      - [Linkedin] (www.linkedin.com/in/joaquin-morales-4baa401a3)
