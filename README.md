@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Joaquin Morales (Him/He) 🌻
+## Joaquin (Him/He) 🌻
 - 🔭 I’m a Student Software Engineer from Uruguay
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/joaquin-morales-4baa401a3)
 - ⚡ **Unbelievable fact**: My first words were "Hello world".
