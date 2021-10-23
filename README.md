@@ -8,6 +8,8 @@
 
 <details>
   
+
+### Programming Languages :scroll:
   
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
@@ -19,9 +21,8 @@
 ### Database Systems :bar_chart:
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" />&nbsp;&nbsp;
 
 
-### Programming Languages :scroll:
 </details>
