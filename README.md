@@ -12,7 +12,7 @@
 ### Programming Languages :scroll:
   
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/django.svg" />&nbsp;
+<img height="32" width="32" src="https://img2.freepng.es/20180805/hho/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f3586dc6.0530431515334955393622.jpg" />&nbsp;
   
 <img height="18" width="18" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp;
 
